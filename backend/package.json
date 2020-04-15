@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "\"GA project 3 backend\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Brandon Cantello\"",
+  "license": "ISC",
+  "dependencies": {
+    "node.js": "0.0.1-security"
+  }
+}
